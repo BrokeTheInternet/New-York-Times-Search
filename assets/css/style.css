@@ -1,3 +1,15 @@
+@font-face {
+    font-family: "Olde English";
+    src: url(../images/OldeEnglish.ttf);
+  }
+
 .jumbotron {
     background: #003366;
+    font-family: "Olde English" !important;
+}
+h1 {
+    font-size: 75px !important;
+}
+.btn {
+    background: #ddd;
 }
